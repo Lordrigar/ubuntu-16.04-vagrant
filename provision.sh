@@ -1,4 +1,4 @@
-# Provision and setup by Wolg
+# Provision and setup by Lordrigar
 #!/usr/bin/env bash
 
 ###### Install SED and update ubuntu ######
