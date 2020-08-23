@@ -1,4 +1,4 @@
-# README
+# README (old local env setup before Docker times, updated from version 14.04) :) 
 ## What is this repository for?
 Vagrant box with shell provisioning. Installs Ubuntu 16.04 with PHP7.1, mysql, phpunit, git, vim, node, npm and apache. Basically universal LAMP stack.
 
@@ -84,7 +84,3 @@ The easy way:
 More complicated way:  
 1) sudo apt-get install xfce4  
 2) sudo startxfce4&
-
-
-## Who do I talk to?
-@copy Wojciech Zaorski
